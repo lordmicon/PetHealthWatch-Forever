@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: PetHealthWatch
+## Notes: Hunter pet health monitor with one-click Mend Pet and Revive Pet.
+## Version: 1.14.0
+## SavedVariables: PHW_Config
+
+PetHealthWatch.lua
